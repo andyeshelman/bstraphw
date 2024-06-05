@@ -1,0 +1,27 @@
+body {
+    background-color: #DCE4E7;
+    margin: 0px;
+    font-family: "Rubik", Helvetica, sans-serif;
+}
+
+#services > div {
+    background-color: #C1C2C1;
+    font-size: 13px;
+    color: black;
+    border-radius: 10px;
+    box-shadow: 10px 10px 20px #607081;
+    min-width: 350px;
+    max-width: 400px;
+}
+
+footer {
+    background-color: #2D3D4C;
+    color: white;
+    font-family: "Pacifico", cursive;
+    bottom: 0px;
+    height: 100px;
+}
+
+#about {
+    background-color: white;
+}
